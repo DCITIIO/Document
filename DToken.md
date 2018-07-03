@@ -1,6 +1,6 @@
-DCiti has a token called DToken to power its network and DToken has a total supply of 2 billion of which 60% of the token is reserved for community airdrop, 15% reserved for development and the remaining 25% for DCiti team, partners and investors. The community reserved of DToken will be airdropped to the crypto community specifically to EOS holders, Bitshares holders and anyone that register to participate in the token distribution event.
+DCiti has a token called DToken to power its network and DToken has a total supply of 2 billion of which 60% of the token is reserved for community airdrop, 10% reserved for development airdrop and the remaining 25% for DCiti team, partners and investors. The community reserved DToken will be airdropped to the crypto community specifically to EOS holders, Bitshares holders and anyone that register to participate in the token distribution event.
 
-While the 15% development airdrop is reserved for the DCiti network participants, which include block producers, Dapp developers  and independent users.
+While the 10% development airdrop is reserved for the DCiti network participants, which include block producers, Dapp developers and independent users.
 
 * ## DCiti Token Summary
 
